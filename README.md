@@ -1,2 +1,1 @@
-# mywebproject
-# first activity
+# newactivity
